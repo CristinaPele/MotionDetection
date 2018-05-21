@@ -1,0 +1,12 @@
+﻿  OpenCVApplication.cpp
+OpenCVApplication.cpp(1): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+  OpenCVApplication.cpp(1): note: Add directive to 'stdafx.h' or rebuild precompiled header
+  Generating code
+  1 of 36 functions ( 2.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenCVApplication.vcxproj -> E:\AN3\Sem2\PI - TiberiuMarita\Lab-FlaviuVancea\Proiect\OpenCVApplication-VS2015_OCV31_basic\x64\Release\OpenCVApplication.exe
+  OpenCV\dll\Release\opencv_ffmpeg310_64.dll
+  OpenCV\dll\Release\opencv_world310.dll
+          2 file(s) copied.
